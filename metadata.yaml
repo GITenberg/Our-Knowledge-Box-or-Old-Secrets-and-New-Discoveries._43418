@@ -1,0 +1,29 @@
+_repo: Our-Knowledge-Box-or-Old-Secrets-and-New-Discoveries._43418
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43418-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2013-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Formulas, recipes, etc.'
+tableOfContents: Secrets of the liquor trade -- Druggists' department -- Manufacturers'
+  department -- The toilet, perfumery, etc. -- Hunters' and trappers' secrets -- The
+  fine arts and sciences -- Farmers' department -- Confectioners' department -- Valuable
+  miscellaneous recipes for the household and every day requirements.
+title: Our Knowledge Box; or, Old Secrets and New Discoveries.
+url: http://www.gutenberg.org/ebooks/43418
